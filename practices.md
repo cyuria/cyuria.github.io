@@ -13,7 +13,7 @@ metrics for measuring code from a computer engineer's perspective.
 
 > Clean code is great and lovely and all, but I think uncle Bob misses the mark
 > somewhat
-> ~ Me
+> -- Me
 
 There's a saying that as soon as a metric becomes a target it ceases to be a
 good metric. I believe this applies to clean code as well. In principle, clean
