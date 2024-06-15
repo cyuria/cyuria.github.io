@@ -12,8 +12,8 @@ metrics for measuring code from a computer engineer's perspective.
 ## Clean code this clean code that
 
 > Clean code is great and lovely and all, but I think uncle Bob misses the mark
-> somewhat.
-> - Me
+> somewhat
+> ~ Me
 
 There's a saying that as soon as a metric becomes a target it ceases to be a
 good metric. I believe this applies to clean code as well. In principle, clean
@@ -54,7 +54,7 @@ this article.
 I would also argue that the maintainability of a piece of code is simply the
 combination of the readability and the writability of the code.
 
-Thus the above three metrics can be transformed into a new set of four metrics
+Thus, the above three metrics can be transformed into a new set of four metrics
 which specifically apply to code quality:
 - Performance
 - Bugs

@@ -2,13 +2,14 @@
 
 This is a place for my thoughts on stuff.
 
-## Projects (maybe you wanted to go to one of these)
+## Projects (maybe you meant to go to one of these)
 
 - [wrasm](https://cyuria.github.io/wrasm/)
 
 ## Articles
 
 - [Actually good code practices](practices.md)
+- [The right way to use python](python.md)
 
 ## Copyright
 
