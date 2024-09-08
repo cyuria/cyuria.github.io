@@ -5,6 +5,7 @@ This is a place for my thoughts on stuff.
 ## Projects (maybe you meant to go to one of these)
 
 - [wrasm](https://cyuria.github.io/wrasm/)
+- [watlas](https://github.com/cyuria/watlas)
 
 ## Articles
 
@@ -14,5 +15,3 @@ This is a place for my thoughts on stuff.
 ## Copyright
 
 This page is Copyright (C) Cyuria 2024.
-
-Other projects under this website may be licensed differently.
