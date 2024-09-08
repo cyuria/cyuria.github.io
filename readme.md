@@ -1,6 +1,6 @@
 # Cyuria's Thoughts
 
-This is a place for my thoughts on stuff.
+This is a place for my thoughts on stuff. It also has links to my projects.
 
 ## Projects (maybe you meant to go to one of these)
 
