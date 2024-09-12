@@ -11,6 +11,7 @@ This is a place for my thoughts on stuff. It also has links to my projects.
 
 - [Actually good code practices](practices.md)
 - [The right way to use python](python.md)
+- [Gitting Gud](git.md)
 
 ## Copyright
 
