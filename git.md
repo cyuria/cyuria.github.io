@@ -290,6 +290,14 @@ These config options allow you to change the look and feel of git as well as the
 default behaviour of commands like `git status` and `git pull`. There are a lot
 of options and I'd recommend going through the man pages for a list.
 
+I've also not covered `git diff`. This is a very useful command which allows you
+to view the changes made by one or more commits and/or the working tree.
+
+Lastly, I haven't covered editor integrations. This is because git is text
+editor agnostic, and therefore this tutorial should be too. For anyone who uses
+vim or a derivative thereof, I can strongly suggest tpope's fugitive vim plugin
+for working with git inside the editor.
+
 ## Extra Learning
 
 There are a few commands which are very useful but I haven't properly covered
@@ -299,3 +307,8 @@ here. If you want to learn more on your own, here's a list:
 - `git rebase`
 - `git cherry-pick`
 - `git fetch`
+- `git diff`
+
+## Copyright
+
+This page is Copyright (C) Cyuria 2024.
