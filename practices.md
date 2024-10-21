@@ -190,3 +190,7 @@ which means I also happened to touch a little bit on optimisation.
 I think the main takeaway from here is that the best way to determine if code
 is "good quality" and "readable" is to just try to read it. If you can
 understand what it does, it's well written. If not, something's wrong.
+
+## Copyright
+
+This page is Copyright (C) Cyuria 2024.
