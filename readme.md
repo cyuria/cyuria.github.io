@@ -13,6 +13,7 @@ This is a place for my thoughts on stuff. It also has links to my projects.
 - [The right way to use python](python.md)
 - [Gitting Gud](git.md)
 - [Learning a New Language](learning.md)
+- [Brutality over elegance](brutality.md)
 
 ## Copyright
 
