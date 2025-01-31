@@ -14,7 +14,9 @@ This is a place for my thoughts on stuff. It also has links to my projects.
 - [Gitting Gud](git.md)
 - [Learning a New Language](learning.md)
 - [Brutality over elegance](brutality.md)
+- [Wire Protocols](wire.md)
+- [Another Rant on "Clean" Code](thin_code.md)
 
 ## Copyright
 
-This page is Copyright (C) Cyuria 2024.
+Copyright (c) 2024-2025 Cyuria. All Rights Reserved.
