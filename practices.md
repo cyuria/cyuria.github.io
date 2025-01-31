@@ -193,4 +193,4 @@ understand what it does, it's well written. If not, something's wrong.
 
 ## Copyright
 
-This page is Copyright (C) Cyuria 2024.
+Copyright (c) 2024-2025 Cyuria. All Rights Reserved.

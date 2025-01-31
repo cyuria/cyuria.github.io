@@ -311,4 +311,4 @@ here. If you want to learn more on your own, here's a list:
 
 ## Copyright
 
-This page is Copyright (C) Cyuria 2024.
+Copyright (c) 2024-2025 Cyuria. All Rights Reserved.

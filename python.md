@@ -138,3 +138,7 @@ much any purpose you can think of.
 
 Python is a tool just like any other. It is in fact an excellent tool. As such
 there are occasions where it should be used and occasions where it shouldn't.
+
+## Copyright
+
+Copyright (c) 2024-2025 Cyuria. All Rights Reserved.
