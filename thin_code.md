@@ -118,6 +118,14 @@ the most readable shit I've ever seen. I have a bad habit of avoiding them
 wherever possible and attempting to replace them with control flow. It takes up
 a fair bit of my time when programming.
 
+I'll also finish this off with a good quote I read recently.
+
+> There are two ways of constructing a software design: One way is to make it
+> so simple there are obviously no deficiencies and the other way is to make it
+> so complicated that there are no obvious deficiencies.
+>
+> -- <cite>C.A.R. Hoare, The 1980 ACM Turing Award Lecture</cite>
+
 ## Copyright
 
 Copyright (c) 2025 Cyuria. All Rights Reserved.
