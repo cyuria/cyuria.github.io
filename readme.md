@@ -16,6 +16,7 @@ This is a place for my thoughts on stuff. It also has links to my projects.
 - [Brutality over elegance](brutality.md)
 - [Wire Protocols](wire.md)
 - [Another Rant on "Clean" Code](thin_code.md)
+- [Causes of Undefined and Unexpected Behaviour](brutality.md)
 
 ## Copyright
 
