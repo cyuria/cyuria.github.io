@@ -250,4 +250,4 @@ layers of abstraction that there is no meaningful code to write.
 
 ## Copyright
 
-This page is Copyright (C) Cyuria 2024.
+Copyright (c) 2024-2025 Cyuria. All Rights Reserved.

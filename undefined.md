@@ -102,4 +102,4 @@ invalid state.
 
 ## Copyright
 
-This page is Copyright (C) Cyuria 2025.
+Copyright (c) 2025 Cyuria. All Rights Reserved.
