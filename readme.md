@@ -17,6 +17,7 @@ This is a place for my thoughts on stuff. It also has links to my projects.
 - [Wire Protocols](wire.md)
 - [Another Rant on "Clean" Code](thin_code.md)
 - [Causes of Undefined and Unexpected Behaviour](brutality.md)
+- [A Key to Being Persistently Motivated](persistentmotivation.md)
 
 ## Copyright
 
